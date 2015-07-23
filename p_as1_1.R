@@ -1,11 +1,8 @@
 
-  ##  Open required libraries
+  ##  Open  library
   library(reshape2)
   
-  ## First, read all required .txt files and label the datasets
-  # 
-  ## First part
-  ##__________________________________________________________________________________
+   ##__________________________________________________________________________________
   ## READING TEXT FILES AS TABLES FROM MAIN REPO
   ## NAMING COLUMNS
 
